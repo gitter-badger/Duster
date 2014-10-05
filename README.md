@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/afvieira/duster.svg?branch=development)](https://travis-ci.org/afvieira/duster)
+
 Duster
 ========
 
